@@ -7,3 +7,14 @@
   justify-content:space-between;
   
 }
+h1{
+  color:yellow;
+}
+h3{
+  color: green;
+}
+h4{
+  color: red;
+  padding:5px;
+  border:1px solid black;
+}
