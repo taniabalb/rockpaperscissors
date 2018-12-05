@@ -11,10 +11,25 @@ h1{
   color:yellow;
 }
 h3{
-  color: green;
+  color: purple;
+  font-family: 'Mountains of Christmas', cursive;
 }
 h4{
-  color: red;
+  color: blue;
   padding:5px;
-  border:1px solid black;
+  border:2px solid black;
+  font-family: 'Kalam', cursive;
+}
+#rock{
+  color:orange;
+}
+#paper{
+  color:red;
+}
+#scissors{
+  color:green;
+}
+#head{
+  display: flex;
+  justify-content: space-around;
 }
